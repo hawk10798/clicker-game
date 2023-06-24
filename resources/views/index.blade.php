@@ -22,7 +22,10 @@
         <livewire:styles />
     </head>
     <body class="antialiased">
-        <livewire:counter />
+        <div class="p-6">
+            <h1>Clicker Game</h1>
+            <livewire:counter />
+        </div>
         
         <livewire:scripts />
     </body>

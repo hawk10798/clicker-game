@@ -1,3 +1,4 @@
 <div>
-    <h1>Hello World!</h1>
+    <p>{{ $count }}</p>
+    <button class="w-8" wire:click='increment'>+</button>
 </div>
