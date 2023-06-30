@@ -9,11 +9,11 @@
         <title>Clicker Game</title>
     </head>
     <body class="antialiased">
-        <div class="p-6 bg-red-600">
+        <div class="p-6 bg-slate-300">
             <livewire:header />
             <livewire:counter />
         </div>
-        
+
         <livewire:scripts />
     </body>
 </html>
